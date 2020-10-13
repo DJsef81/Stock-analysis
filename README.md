@@ -30,20 +30,21 @@ Our time for running our code
 
 Viewing our data, we can determine that the following changes in Total Daily Value happened between the end of 2017 and the end of 2018:
 
-Total Daily Value decreased: 
-- “AY” 
-- “CSIQ”
-- “FSLR”
-- “JKS”
-- “SPWR” 
+Total Daily Value decreased
+	- “AY” 
+	- “CSIQ”
+	- “FSLR”
+	- “JKS”
+	- “SPWR”
+
 Total Daily Value increased 
-- “DQ”
-- “ENPH”
-- “HASI”
-- “RUN”
-- “SEDG”
-- “TERP”
-- “VSLR”
+	- “DQ”
+	- “ENPH”
+	- “HASI”
+	- “RUN”
+	- “SEDG”
+	- “TERP”
+	- “VSLR”
 
 
 However, we can also see that from the end of 2017 to the end of 2018, only 2  stocks, “ENPH” and “RUN” yielded a positive return percentage. 
