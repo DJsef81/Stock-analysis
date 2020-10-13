@@ -23,7 +23,7 @@ Our time for running our code
 - Insert 2017 time
 
 For 2018  
-- Insert VBA_Challenge_Stock_Analysis_2018
+Resources (Module 2)/VBA_Challenge_Stock_Analysis_2018.png
 
 Our time for running our code
 - Insert 2018 time
